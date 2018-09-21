@@ -1,0 +1,19 @@
+---
+label: Base
+hide_body: false
+is_partial: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: datetime
+  name: lastmod
+  label: Last Modified
