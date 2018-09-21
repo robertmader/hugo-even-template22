@@ -1,7 +1,16 @@
 # Hugo Even Template
 
-## Getting Started
+A Hugo template configured to be editable with Forestry.io and themed with the Even.
 
+Includes:
+
+* A Welcome page with instructions
+* Front Matter Templates: about, post
+* Front Matter Partials: base, mathjax
+* Snippets: center, left, right
+* Previews
+
+Ready to try it out?
 
 <a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template&engine=hugo&version=0.42.1" target="_blank">
 <img src="./import-to-forestry-button_green.svg" />
