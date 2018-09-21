@@ -38,3 +38,8 @@ fields:
   name: hiddenFromHomePage
   label: Hidden from Homepage
   hidden: true
+- type: include
+  name: mathjax_toggles
+  label: Mathjax Toggles
+  template: mathjax-toggles
+  hidden: true
