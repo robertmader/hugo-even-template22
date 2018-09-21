@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-<a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template">Create Site</a>
+<a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template">Create a Site</a>
 
 Click the above link to get started with Hugo & Forestry.
 
@@ -26,6 +26,7 @@ Even is a theme for Hugo
 
 ### So what is this?
 
-This is a template repository for creating new sites. Just click the 
-Create Site button above and you will have a new website fully 
-configured to be editable with Forestry.io
+This is a template repository for creating new sites. 
+
+Just click the `Create Site` button above and you will have 
+a new website fully configured to be editable with Forestry.io
