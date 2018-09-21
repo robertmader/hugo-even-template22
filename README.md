@@ -3,7 +3,7 @@
 ## Getting Started
 
 
-<a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template">
+<a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template&engine=hugo&version=0.42.1">
 <img src="./import-to-forestry-button_green.svg" />
 </a>
 
