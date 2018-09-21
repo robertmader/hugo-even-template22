@@ -3,22 +3,13 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
-- type: text
-  name: title
-  label: Title
-  config:
-    required: true
+- type: include
+  name: base
+  label: Base Fields
+  template: base
 - type: textarea
   name: description
   label: Description
-- type: datetime
-  name: date
-  label: Date
-  config:
-    required: true
-- type: datetime
-  name: lastmod
-  label: Last Modified
 - type: tag_list
   name: keywords
   label: Keywords
