@@ -7,3 +7,5 @@ fields:
   name: base
   label: Base
   template: base
+pages:
+- content/about.md

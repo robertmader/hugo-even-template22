@@ -1,12 +1,13 @@
 ---
-title: "About"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
-menu: "main"
+title: About
+date: 2017-08-20 13:38:52 +0000
+lastmod: 2017-08-28 13:41:52 +0000
 weight: 50
+menu:
+  main:
+    weight: 50
 
 ---
-
 Hugo is a static site engine written in Go.
 
 
@@ -18,4 +19,3 @@ It makes use of a variety of open source projects including:
 * [Cast](https://github.com/spf13/cast)
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
