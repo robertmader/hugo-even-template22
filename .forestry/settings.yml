@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: welcome-to-forestry.md
+  label: Welcome to Forestry
+  match: "**/*"
+  read_only: true
+- type: heading
+  label: Content
+- type: document
   path: content/about.md
   label: About
 - type: directory
