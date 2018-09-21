@@ -1,0 +1,9 @@
+---
+label: About
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  name: base
+  label: Base
+  template: base
