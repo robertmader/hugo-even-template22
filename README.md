@@ -3,7 +3,9 @@
 
 ## Getting Started
 
-<a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template">Create a Site</a>
+<a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template">
+<img src="./import-to-forestry-button_neg.svg" />
+</a>
 
 Click the above link to get started with Hugo & Forestry.
 
