@@ -4,7 +4,7 @@
 ## Getting Started
 
 <a href="https://app.forestry.io/quick-start?repo=ncphillips/hugo-even-template">
-<img src="./import-to-forestry-button_neg.svg" />
+<img src="./import-to-forestry-button_green.svg" />
 </a>
 
 Click the above link to get started with Hugo & Forestry.
