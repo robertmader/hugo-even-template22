@@ -1,0 +1,14 @@
+---
+label: Mathjax Toggles
+hide_body: false
+is_partial: true
+fields:
+- type: boolean
+  name: mathjax
+  label: Mathjax – Enable
+- type: boolean
+  name: mathjaxEnableSingleDollar
+  label: Mathjax – Enable Single Dollar
+- type: boolean
+  name: mathjaxEnableAutoNumber
+  label: Mathjax – Enable Auto Number
