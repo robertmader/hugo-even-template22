@@ -1,6 +1,8 @@
 # Hugo Even Template
 
-A Hugo template configured to be editable with Forestry.io and themed with the Even.
+A [Hugo](https://gohugo.io) template configured to be editable with 
+[Forestry.io](https://forestry.io/?utm_campaign=hugosponsor&utm_medium=banner&utm_source=homepage)
+and themed with the [Even](https://themes.gohugo.io/hugo-theme-even/).
 
 Includes:
 
